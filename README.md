@@ -43,7 +43,7 @@ p.s.
 - **프론트엔드:** [JavaScript, Spring Boot]  
 - **백엔드:** [C++, Python, Java]  
 - **데이터베이스:** [MySQL]  
-- **기타:** [GraphQL, REST API 등]  
+- **기타:** 
 
 ---
 
